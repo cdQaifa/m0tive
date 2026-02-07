@@ -19,13 +19,6 @@ Bağımlılıkları yükle:
 pip install -r requirements.txt
 ```
 
-Token ekle:
-
-```python
-TOKEN = "BURAYA_DISCORD_TOKEN"
-CHANNEL_ID = 123456789
-```
-
 Botu başlat:
 
 ```bash
